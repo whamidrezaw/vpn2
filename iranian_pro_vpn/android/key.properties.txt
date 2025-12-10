@@ -1,4 +1,0 @@
-keyAlias=androiddebugkey
-keyPassword=android
-storeFile=debug.keystore
-storePassword=android
